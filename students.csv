@@ -1,0 +1,11 @@
+student_id,name,birth_year,major,gpa,class_id
+S001,Nguyen Minh Anh,2003,Computer Science,3.5,C01
+S002,Tran Gia Bao,2002,Information Technology,3.2,C02
+S003,Le Hoang Long,2003,Software Engineering,3.8,C03
+S004,Pham Thanh Tung,2001,Data Science,3.1,C04
+S005,Vo Quoc Khanh,2002,Artificial Intelligence,3.6,C05
+S006,Do Tuan Kiet,2003,Computer Science,3.0,C01
+S007,Huynh Minh Quan,2002,Information Technology,3.4,C02
+S008,Nguyen Anh Tuan,2003,Software Engineering,3.7,C03
+S009,Tran Duc Minh,2001,Data Science,3.3,C04
+S010,Le Phuoc Dat,2002,Artificial Intelligence,3.9,C05
